@@ -27,7 +27,7 @@ db_tarefas: Dict[str, dict] = {}
 
 
 app = FastAPI(
-    title="Trabalho final de Desenvolvimento de Sistema // Théo Ferreira - Lianara Vitória  e Matheus Gorges Machado",
+    title="Trabalho final de Desenvolvimento de Sistema",
     description="API RESTful para gerenciar tarefas em memória com FastAPI."
 )
 
